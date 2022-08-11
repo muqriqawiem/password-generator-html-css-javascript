@@ -3,4 +3,4 @@
 <li>It will generate the password by selecting characters randomly. The length slider value given by the user will determine the length of the password and the user can choose to include special characters by checking the checkbox provided.</li><br/>
 <li>On clicking the "Generate Password" button, it will execute some lines of codes to generate the password using <strong>Math.random()</strong> function. If checkbox is checked then it will add special characters to the original string.</li><br/>
 <li>The original strings contains "<em>ABCDEFGHIJKLMNOPQRSTUVWXYZacdefghijklnopqrstuvwxyz0123456789</em>".</li><br/>
-<li><a href="https://muqriqawiem.github.io/password-generator-html-css-javascript/" target="_blank">View the website here.</a></li>
+<li><a href="https://muqriqawiem.github.io/password-generator-html-css-javascript/" target="_blank">Click here </a>to view the website.</li>
